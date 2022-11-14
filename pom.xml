@@ -27,6 +27,6 @@
 	</dependency>
   </dependencies>
   <build>
-    <finalName>flipkart_app</finalName>
+    <finalName>flipkart_apps</finalName>
   </build>
 </project>
