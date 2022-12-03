@@ -1,7 +1,7 @@
 <html>
 <body>
   <h1><font color='red'>Welcome to Ashok IT  <font></h1>
-<h2>Hello World! Good Morning Have a nice day SaiKrishna</h2>
+<h2>Hello World! Good Morning Have a nice day</h2>
     <h3>This is for jenkins Continue Integration and Continues Deployment</h3>
 </body>
 </html>
